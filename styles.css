@@ -1,0 +1,25 @@
+body {
+	background: steelblue;
+	color: white;
+font-size: 14pt;}
+
+body{
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Poiret One', cursive;
+
+h1{fontsize: 250%
+font-weight: bold;
+color:navy}
+} 
+
+
+
+nav li:hover {background: lavender}
+li{display:inline-block}
+nav li {padding: 10px;
+		margin: 5px;
+background: white}
+
+a { color: navy;
+text-decoration: none;}
+a: hover {color: red }
