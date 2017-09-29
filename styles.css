@@ -1,7 +1,22 @@
-body {
+body{
+	background: #e6f2ff;
+}
+
+h1{
 	background: steelblue;
 	color: white;
-font-size: 14pt;}
+font-size: 34pt;}
+
+h2{
+	background: steelblue;
+	color: white;
+font-size: 18pt;}
+
+p{
+	background: white;
+	color: steelblue;
+font-size: 18pt;}
+
 
 body{
 font-family: 'Cormorant Garamond', serif;
@@ -14,10 +29,10 @@ color:navy}
 
 
 
-nav li:hover {background: lavender}
+nav li:hover {background: #cce6ff}
 li{display:inline-block}
-nav li {padding: 10px;
-		margin: 5px;
+nav li {padding: 8px;
+		margin: 15px;
 background: white}
 
 a { color: navy;
