@@ -15,6 +15,7 @@ font-size: 18pt;}
 p{
 	background: white;
 	color: steelblue;
+	padding: 20px;
 font-size: 18pt;}
 
 
@@ -31,8 +32,8 @@ color:navy}
 
 nav li:hover {background: #cce6ff}
 li{display:inline-block}
-nav li {padding: 8px;
-		margin: 15px;
+nav li {padding: 7px;
+		margin: 12px;
 background: white}
 
 a { color: navy;

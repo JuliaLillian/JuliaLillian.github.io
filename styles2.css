@@ -1,0 +1,36 @@
+body{
+	background: #e6f2ff;
+}
+
+h1{
+	color: white;
+font-size: 60pt;}
+
+h2{
+	background: #b3e0ff;
+	color: white;
+font-size: 32pt;}
+
+
+}
+
+p{
+	background: white;
+	color: steelblue;
+font-size: 18pt;}
+
+
+
+
+
+nav li:hover {background: #cce6ff}
+li{display:inline-block}
+nav li {padding: 8px;
+		margin: 15px;
+background: white}
+
+a { color: #b3e0ff;
+text-decoration: none;}
+a: hover {color: red }
+
+
