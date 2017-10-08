@@ -1,3 +1,5 @@
+
+
 body{
 	background: #e6f2ff;
 }
@@ -12,13 +14,17 @@ h2{
 font-size: 32pt;}
 
 
-}
 
 p{
-	background: white;
+	background-color: white;
 	color: steelblue;
-font-size: 18pt;}
+	padding: 10px;
+font-size: 14pt;}
 
+body{
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Poiret One', cursive;
+}
 
 
 
@@ -29,8 +35,11 @@ nav li {padding: 8px;
 		margin: 15px;
 background: white}
 
-a { color: #b3e0ff;
+a { color: navy;
 text-decoration: none;}
 a: hover {color: red }
 
+
+	
+	
 
