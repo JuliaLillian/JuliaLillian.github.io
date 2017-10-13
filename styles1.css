@@ -37,3 +37,12 @@ a { color: navy;
 text-decoration: none;}
 a: hover {color: red }
 
+img {
+	opacity: .9;
+filter: alpha(opacity=90);
+}
+
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
