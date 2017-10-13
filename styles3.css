@@ -9,7 +9,6 @@ border: .9px solid black;
 
 }
 
-
 body{
 	background: #e6f2ff;
 }
@@ -23,7 +22,15 @@ h2{
 	color: white;
 font-size: 32pt;}
 
-
+h3 {
+	 font-family: 'Cormorant Garamond', serif;
+	 font-family: 'Poiret One', cursive;
+	 text-align: center;
+	 font-size: 30px;
+	 letter-spacing: -1px;
+   color: white;
+   background: #b3e0ff
+}
 
 p{
 	background-color: white;
@@ -35,6 +42,7 @@ body{
 font-family: 'Cormorant Garamond', serif;
 font-family: 'Poiret One', cursive;
 }
+
 
 img{
 width:20%;
@@ -46,57 +54,12 @@ nav li:hover {background: #cce6ff}
 li{display:inline-block}
 nav li {padding: 8px;
 		margin: 15px;
-		background:white
-}
-		
-		
+background: white}
+
 a { color: navy;
 text-decoration: none;}
 a: hover {color: red }
 
-
-body{
-font-family: 'Cormorant Garamond', serif;
-font-family: 'Poiret One', cursive;
-
-}
-
-body{
-	background: #e6f2ff;
-}
-
-h1{
-	color: white;
-font-size: 60pt;}
-
-h2{
-	background: #b3e0ff;
-	color: white;
-font-size: 32pt;}
-
-
-
-p{
-	background-color: white;
-	color: steelblue;
-	padding: 10px;
-font-size: 14pt;}
-
-body{
-font-family: 'Cormorant Garamond', serif;
-}
-
-
-
-h3 {
-	 font-family: 'Cormorant Garamond', serif;
-	 text-align: center;
-	 font-size: 30px;
-	 letter-spacing: -1px;
-   color: white;
-   background: #b3e0ff
-   
-}
 
 
 
