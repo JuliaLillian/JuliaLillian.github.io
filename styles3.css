@@ -7,52 +7,96 @@ height: 450px;
 border: .9px solid black;
 
 
+}
+
+
+body{
+	background: #e6f2ff;
+}
+
+h1{
+	color: white;
+font-size: 60pt;}
+
+h2{
+	background: #b3e0ff;
+	color: white;
+font-size: 32pt;}
+
+
+
+p{
+	background-color: white;
+	color: steelblue;
+	padding: 10px;
+font-size: 14pt;}
+
+body{
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Poiret One', cursive;
+}
+
+img{
+width:20%;
+height:240px;}
+
+
+
+nav li:hover {background: #cce6ff}
+li{display:inline-block}
+nav li {padding: 8px;
+		margin: 15px;
+		background:white
+}
+		
+		
+a { color: navy;
+text-decoration: none;}
+a: hover {color: red }
+
+
+body{
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Poiret One', cursive;
 
 }
 
-body {
-    background-color: #ffffff;
-   
+body{
+	background: #e6f2ff;
 }
 
-h1 {
- 
-  
-  background-repeat: no-repeat;
-  outline: black solid thin;
-  text-align: center;
-  font-size: 60px;
-  font-family: "Zapfino";
+h1{
+	color: white;
+font-size: 60pt;}
+
+h2{
+	background: #b3e0ff;
+	color: white;
+font-size: 32pt;}
+
+
+
+p{
+	background-color: white;
+	color: steelblue;
+	padding: 10px;
+font-size: 14pt;}
+
+body{
+font-family: 'Cormorant Garamond', serif;
 }
 
-h2 {
-	text-align: center;
-	font-family: "Avenir Next Condensed";
-	font-size: 50px;
-	opacity: 0.4;
-  letter-spacing: 6px
 
-}
 
 h3 {
-	 font-family: "Avenir Next Condensed";
+	 font-family: 'Cormorant Garamond', serif;
 	 text-align: center;
 	 font-size: 30px;
-   color: #FFC0CB;
-   letter-spacing: -1px;
-   background-image:("flower.jpg");
+	 letter-spacing: -1px;
+   color: white;
+   background: #b3e0ff
+   
 }
-
-
-p {
-    font-family: "Courier New";
-    font-size: 15px;
-    text-align: center;
-    letter-spacing: 3px
-	
-}
-
-
 
 
 
